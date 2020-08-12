@@ -1,0 +1,10 @@
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\bin\Debug\Contract Management System.exe.config
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\bin\Debug\Contract Management System.exe
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\bin\Debug\Contract Management System.pdb
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract Management System.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract_Management_System.Form1.resources
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract_Management_System.Properties.Resources.resources
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract Management System.csproj.GenerateResource.cache
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract Management System.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract Management System.exe
+C:\Users\Kushal Neupane\source\repos\Contract Management System\Contract Management System\obj\Debug\Contract Management System.pdb
